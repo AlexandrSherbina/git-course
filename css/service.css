@@ -1,0 +1,31 @@
+:root {    
+    --main-color: #000000 20%;
+    --bcg-first-color:  black 20%;
+    --bcg-second-color:  darkblue;
+    --color-text: white;
+    --w-panel: 260px;
+    --w-left-panel: 180px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    color: var(--color-text);
+    /* background: no-repeat linear-gradient(var(--bcg-first-color),var(--bcg-second-color) ); */
+    background: var(--main-color);
+    height: 100vh;
+}
+
+
+.panel {
+    width: var(--w-panel);
+}
+
+.left-panel-list {
+    width: var(--w-left-panel);
+}
+
+.left-panel-item .dashboard-item {
+    background-color: #FFFFFF;
+    color: #000000;
+}
