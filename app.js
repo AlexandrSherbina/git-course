@@ -18,7 +18,9 @@ function toggleFn() {
 toggleWeather.addEventListener('click', toggleFn);
 
 
-search()
+search();
+
+console.log('Test 2')
 
 // function mouseMove() {
 //     console.log(new Date());
