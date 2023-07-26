@@ -29,3 +29,6 @@ console.log('Test 3 !!!!!!!!!!!!!!!!!')
 // mouseMove = throttle(mouseMove, 3000)
 
 // setInterval(mouseMove, 1000);
+
+
+console.log('New feature 1');
