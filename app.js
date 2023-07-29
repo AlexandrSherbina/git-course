@@ -32,3 +32,6 @@ console.log('Test 3 !!!!!!!!!!!!!!!!!')
 
 console.log('Commit for Master branch !!');
 // Second commit MAster branch
+
+
+console.log('New feature 1');
