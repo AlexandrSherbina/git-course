@@ -30,5 +30,8 @@ console.log('Test 3 !!!!!!!!!!!!!!!!!')
 
 // setInterval(mouseMove, 1000);
 
+console.log('Commit for Master branch !!');
+// Second commit MAster branch
+
 
 console.log('New feature 1');
